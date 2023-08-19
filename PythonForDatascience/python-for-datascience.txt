@@ -1,0 +1,10 @@
+
+======================= Section1: Welcome ==================================
+
+
+Installing Python:
+-------------------
+- download anaconda from https://github.com/tkanta/udemystack
+- install in windows
+- open Anaconda console and type 'jupyter notebook'. It will open jupiter notebook in browser by loading relevant tech (python)
+- create folder and *.ipynb files inside it
